@@ -1,8 +1,5 @@
 package edu.bim313;
 
-/**
- * Helper class
- */
 public class TurkishNetwork {
 
     private TurkishNetwork() {
